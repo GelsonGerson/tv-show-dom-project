@@ -48,5 +48,5 @@ function getAllShows() {
         timezone: "America/New_York",
       },
     }
-  ]
+
   };
